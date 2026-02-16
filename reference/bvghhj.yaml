@@ -4,6 +4,7 @@ x-stoplight:
 info:
   title: bvghhj
   version: '1.0'
+  description: sdsds
 servers:
   - url: 'http://localhost:3000'
 paths:
